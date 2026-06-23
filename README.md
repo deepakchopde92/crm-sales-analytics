@@ -109,9 +109,9 @@ The following Key Performance Indicators (KPIs) were analyzed to evaluate busine
 
 ## 6. Dashboard
 
-### Dashboard Preview
+## Dashboard Preview
 
-*Add dashboard screenshot here*
+![CRM Dashboard](Dashboard_Screenshot.png)*
 
 ### KPI Cards
 
